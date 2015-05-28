@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth for Tasker</string>
+    <string name="action_done">Done</string>
+    <string name="title_activity_edit">A2DP Connected</string>
+    <string name="tasker_plugin_welcome"><h1><b>Welcome to BluetoothForTasker Plugin!</b></h1>\n\nTo get started, open up Tasker and add a new profile of the \'Event\' type. The plugin will show under the \'Plugins\' category as \'Add A2DP Connected Event\'.</string>
+    <string name="sample_device_address">00:00:00:11:22:33</string>
+    <string name="sample_device_name">Sample Device Name</string>
+    <string name="bt_name_address_separator"> / </string>
+    <string name="no_device_selected">No A2DP device selected</string>
+</resources>
